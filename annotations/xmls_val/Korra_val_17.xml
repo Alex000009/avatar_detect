@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>Korra_val_17.png</filename>
+	<path>D:\Desktop\AI\project\images\val\Korra_val_17.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>896</width>
+		<height>948</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Korra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>85</ymin>
+			<xmax>789</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Mako_36.png</filename>
+	<path>D:\Desktop\AI\project\images\train\Mako_36.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1035</width>
+		<height>878</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mako</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>20</ymin>
+			<xmax>832</xmax>
+			<ymax>791</ymax>
+		</bndbox>
+	</object>
+</annotation>

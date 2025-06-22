@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Korra_103.png</filename>
+	<path>D:\Desktop\AI\project\images\train\Korra_103.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>912</width>
+		<height>862</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Korra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>115</ymin>
+			<xmax>609</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

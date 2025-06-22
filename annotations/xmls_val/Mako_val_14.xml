@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>Mako_val_14.png</filename>
+	<path>D:\Desktop\AI\project\images\val\Mako_val_14.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1077</width>
+		<height>961</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mako</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>301</ymin>
+			<xmax>694</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+</annotation>

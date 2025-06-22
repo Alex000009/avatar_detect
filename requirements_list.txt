@@ -1,0 +1,20 @@
+# Core
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+
+# Dataset and annotation tools
+pycocotools==2.0.7
+matplotlib==3.8.4
+labelImg==1.8.6
+opencv-python==4.9.0.80
+Pillow==10.3.0
+
+# XML to COCO converter
+lxml==5.2.1
+tqdm==4.66.4
+numpy==1.26.4
+
+# Optional (if using Jupyter notebooks)
+jupyterlab==4.2.0
+ipykernel==6.29.4

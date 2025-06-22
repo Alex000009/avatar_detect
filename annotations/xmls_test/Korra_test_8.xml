@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Korra_test_8.png</filename>
+	<path>D:\Desktop\AI\project\images\test\Korra_test_8.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>914</width>
+		<height>876</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Korra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>59</ymin>
+			<xmax>606</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>
